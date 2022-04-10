@@ -16,7 +16,6 @@ Link do mokup no Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Protot
 
 *DEMONSTRAÇÃO DA VERSÃO FINAL*
 --
-
 <img src ="image\projetinho fim.gif">
 
 
