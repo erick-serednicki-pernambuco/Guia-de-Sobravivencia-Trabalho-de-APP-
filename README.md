@@ -5,9 +5,7 @@ Link do mokup no Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Protot
 
 - demonstração das primeiras telas criadas.
 
-<img src ="image/demonstracao_inicio2.gif">
-<<<<<<< HEAD
-<br>
+
 <br>
 <br>
 <img src ="image\todas as telas_versão final.png">
