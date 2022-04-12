@@ -1,18 +1,16 @@
 Projeto em andamento:  *Inicio prototypação*
+<<<<<<< HEAD
 
 <img src ="image\paleta_e_fontes.png">
 
-<<<<<<< HEAD
-Link do Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Prototipe-ADS?node-id=253%3A251
+>>>>>>> ef80a73fadf5dcd3bf6a7ab644369fc20fc09d39
 =======
 Link do mokup no Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Prototipe-ADS?node-id=0%3A1
->>>>>>> 4c9e7548c992360681b91233604c35614b107fed
+
 
 - demonstração das primeiras telas criadas.
 
-<img src ="image/demonstracao_inicio2.gif">
-<<<<<<< HEAD
-<br>
+
 <br>
 <br>
 <img src ="image\todas as telas_versão final.png">
@@ -21,7 +19,6 @@ Link do mokup no Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Protot
 
 *DEMONSTRAÇÃO DA VERSÃO FINAL*
 --
-
 <img src ="image\projetinho fim.gif">
 
 
