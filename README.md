@@ -3,7 +3,7 @@ Projeto em andamento:  *Inicio prototypação*
 
 <img src ="image\paleta_e_fontes.png">
 
->>>>>>> ef80a73fadf5dcd3bf6a7ab644369fc20fc09d39
+
 =======
 Link do mokup no Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Prototipe-ADS?node-id=0%3A1
 
@@ -37,4 +37,4 @@ Link do mokup no Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Protot
 <img src ="image/TeladePerfil.png">
 <br></br>
 <br></br>
->>>>>>> 4c9e7548c992360681b91233604c35614b107fed
+
