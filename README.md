@@ -1,5 +1,7 @@
 Projeto em andamento:  *Inicio prototypação*
 
+<img src ="image\paleta_e_fontes.png">
+
 <<<<<<< HEAD
 Link do Figma: https://www.figma.com/file/qihlaw2BpyYYqbvh8kBGj3/Prototipe-ADS?node-id=253%3A251
 =======
