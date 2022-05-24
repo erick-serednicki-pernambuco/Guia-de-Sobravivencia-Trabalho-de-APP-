@@ -12,7 +12,14 @@ CORES:
   *Textos: #5e5e5e*
   <br>
 FONTES:
- 
+<br>
+ TITULOS: 22;
+<br>
+TEXTOS GERAIS: 20, 12
+<br>
+
+MARGENS: 32PX;
+ ----------------------------------FASE 02 ----------------------------------------------
  
 
 
