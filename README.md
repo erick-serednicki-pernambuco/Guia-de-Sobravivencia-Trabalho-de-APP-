@@ -2,7 +2,9 @@ Projeto em andamento:  *Inicio prototypação*
 <<<<<<< HEAD
 
 ATUALIZANDO: 
+<br>
 CORES:
+<br>
  	*Fundo: #6b256f *
   <br>
   *Secundaria: #ffffff*
