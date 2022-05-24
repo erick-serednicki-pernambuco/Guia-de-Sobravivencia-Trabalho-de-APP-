@@ -5,7 +5,7 @@ ATUALIZANDO:
 <br>
 CORES:
 <br>
- 	*Fundo: #6b256f *
+ 	*Fundo: #6b256f*
   <br>
   *Secundaria: #ffffff*
   <br>
