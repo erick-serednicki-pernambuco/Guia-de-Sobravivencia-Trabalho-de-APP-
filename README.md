@@ -1,5 +1,5 @@
 Projeto em andamento:  *Inicio prototypação*
-<<<<<<< HEAD
+
 
 ATUALIZANDO: 
 <br>
@@ -21,7 +21,7 @@ TEXTOS GERAIS: 20, 12
 MARGENS: 32PX;
  ----------------------------------FASE 02 ----------------------------------------------
  
-
+Projeto em andamento:  *Inicio prototypação*
 
 <img src ="image\paleta_e_fontes.png">
 
