@@ -1,6 +1,16 @@
 Projeto em andamento:  *Inicio prototypação*
 <<<<<<< HEAD
 
+ATUALIZANDO: 
+CORES:
+ 	Fundo: #6b256f
+  Secundaria: #ffffff
+  Textos: #5e5e5e
+FONTES:
+ 
+ 
+
+
 <img src ="image\paleta_e_fontes.png">
 
 
