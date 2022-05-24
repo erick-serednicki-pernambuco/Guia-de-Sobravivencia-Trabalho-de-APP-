@@ -3,11 +3,12 @@ Projeto em andamento:  *Inicio prototypação*
 
 ATUALIZANDO: 
 CORES:
- 	Fundo: #6b256f 
+ 	*Fundo: #6b256f *
   <br>
-  Secundaria: #ffffff
+  *Secundaria: #ffffff*
   <br>
-  Textos: #5e5e5e
+  *Textos: #5e5e5e*
+  <br>
 FONTES:
  
  
