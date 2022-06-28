@@ -33,33 +33,3 @@ Link do mokup no Figma: https://www.figma.com/proto/qihlaw2BpyYYqbvh8kBGj3/Proto
 <br></br>
 
 
-- demonstração da tela de "perfil".
-<br></br>
-<br></br>
-<img src ="image/TeladePerfil.png">
-<br></br>
-<br></br>
-
-
-Projeto em andamento:  *Inicio prototypação*
-
- ----------------------------------FASE 02 ----------------------------------------------
-
-ATUALIZANDO: 
-<br>
-CORES:
-<br>
- 	*Fundo: #6b256f*
-  <br>
-  *Secundaria: #ffffff*
-  <br>
-  *Textos: #5e5e5e*
-  <br>
-FONTES:
-<br>
- TITULOS: 22;
-<br>
-TEXTOS GERAIS: 20, 12
-<br>
-
-MARGENS: 32PX;
